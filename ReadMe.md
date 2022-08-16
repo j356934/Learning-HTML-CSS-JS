@@ -6,18 +6,18 @@
 ```text
 
 Root -+- index.html
-    |
-    +- ReadMe.md
-    |
-    +- about folder -+- index.html
-    |
-    +- assets  -+- js -+-
-                |
-                +- css -+- site.css
-                |
-                +- img -+-
-                |
-                +- media -+-
+      |
+      +- ReadMe.md
+      |
+      +- about folder -+- index.html
+      |
+      +- assets  -+- js -+-
+                  |
+                  +- css -+- site.css
+                  |
+                  +- img -+-
+                  |
+                  +- media -+-
 ```
 
 
